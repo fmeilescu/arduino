@@ -5,7 +5,9 @@ Arduino projects
 
   Project components:
     1x Arduino Uno R3 controller board
+    1x Waveshare LCD1602 RGB Module (display)
     2x CL57T motor driver (StepperOnline)
     2x Nema 17HS08-1004D-E1K motors (StepperOnline)
     1x PSU Adjustable 0-48V / 0-12.A / 600W
+
 
